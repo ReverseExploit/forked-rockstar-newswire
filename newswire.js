@@ -1,14 +1,7 @@
 const genres = {
     latest: null,
-    music: 30,
     rockstar: 43,
-    tips: 121,
-    gtav: 702,
-    updates: 705,
-    fanvideos: 706,
-    fanart: 708,
-    creator: 728,
-    rdr2: 736,
+    
 };
 const puppeteer = require('puppeteer');
 const {
