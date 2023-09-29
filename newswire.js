@@ -1,6 +1,6 @@
 const genres = {
     latest: null,
-    rockstar: 43,
+    gtav: 702,
     
 };
 const puppeteer = require('puppeteer');
